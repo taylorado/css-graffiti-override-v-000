@@ -5,7 +5,7 @@
   display: none;
 }
 
-img[id="tag-2"] {
+img#tag-2 {
   display: none;
 }
 
